@@ -1,0 +1,82 @@
+[
+    {
+        "type": "0",
+        "intensity": 5,
+        "levelBefore": 4,
+        "levelAfter": 4,
+        "hpBefore": 80,
+        "hpAfter": 80
+    },
+    {
+        "type": "1",
+        "intensity": 3,
+        "levelBefore": 4,
+        "levelAfter": 4,
+        "hpBefore": 80,
+        "hpAfter": 80
+    },
+    {
+        "type": 1,
+        "intensity": 5,
+        "levelBefore": 5,
+        "levelAfter": 5,
+        "hpBefore": 85,
+        "hpAfter": 85
+    },
+    {
+        "type": 0,
+        "intensity": 5,
+        "levelBefore": 5,
+        "levelAfter": 5,
+        "hpBefore": 85,
+        "hpAfter": 85
+    },
+    {
+        "type": 2,
+        "intensity": 5,
+        "levelBefore": 5,
+        "levelAfter": 5,
+        "hpBefore": 85,
+        "hpAfter": 85
+    },
+    {
+        "type": 0,
+        "intensity": 3,
+        "levelBefore": 5,
+        "levelAfter": 5,
+        "hpBefore": 85,
+        "hpAfter": 85
+    },
+    {
+        "type": 0,
+        "intensity": 5,
+        "levelBefore": 5,
+        "levelAfter": 5,
+        "hpBefore": 85,
+        "hpAfter": 85
+    },
+    {
+        "type": 1,
+        "intensity": 5,
+        "levelBefore": 6,
+        "levelAfter": 6,
+        "hpBefore": 90,
+        "hpAfter": 90
+    },
+    {
+        "type": 0,
+        "intensity": 5,
+        "levelBefore": 6,
+        "levelAfter": 6,
+        "hpBefore": 90,
+        "hpAfter": 90
+    },
+    {
+        "type": 2,
+        "intensity": 5,
+        "levelBefore": 6,
+        "levelAfter": 6,
+        "hpBefore": 90,
+        "hpAfter": 90
+    }
+]

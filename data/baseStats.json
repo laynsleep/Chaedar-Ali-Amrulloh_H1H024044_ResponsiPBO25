@@ -1,0 +1,40 @@
+{
+    "name": "Persian",
+    "type": "Normal",
+    "level": 1,
+    "threshold": 0,
+    "exp": 0,
+    "stats": {
+        "hp": 65,
+        "atk": 70,
+        "def": 60,
+        "spd": 115
+    },
+    "moves": [],
+    "lockedMoves": [
+        {
+            "level": 5,
+            "moves": [
+                "Switcheroo"
+            ]
+        },
+        {
+            "level": 10,
+            "moves": [
+                "Growl"
+            ]
+        },
+        {
+            "level": 20,
+            "moves": [
+                "Fake Out"
+            ]
+        },
+        {
+            "level": 40,
+            "moves": [
+                "Feint"
+            ]
+        }
+    ]
+}

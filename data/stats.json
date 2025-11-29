@@ -1,0 +1,19 @@
+{
+    "name": "Persian",
+    "type": "Normal",
+    "level": 6,
+    "threshold": 24,
+    "exp": 10,
+    "stats": {
+        "hp": 90,
+        "atk": 121,
+        "def": 73,
+        "spd": 125
+    },
+    "moves": [
+        {
+            "name": "Switcheroo",
+            "description": "Switcheroo menukar item yang dipegang dengan target. Kedua Pok\u00e9mon tidak perlu memegang item yang sama, sehingga item tersebut cukup diberikan kepada target atau diterima darinya."
+        }
+    ]
+}
