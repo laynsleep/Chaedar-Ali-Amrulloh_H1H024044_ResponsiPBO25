@@ -14,7 +14,7 @@ abstract class BasePokemon {
     }
 
     public function setNewThreshold(): void {
-        $this->data->threshold = $this->calculateThreshold();
+        $this->data->threshold = round(array_sum((array)$this->data->stats) / 100 * $this->data->level);
     }
     abstract public function train(int $trainType, int $intensity): void;
     abstract protected function levelUp(int $exp): void;
